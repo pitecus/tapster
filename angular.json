@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "d62ab772-9f87-42ed-abca-7faf1a2cc6b0"
+  },
   "newProjectRoot": "projects",
   "projects": {
     "tapster": {
