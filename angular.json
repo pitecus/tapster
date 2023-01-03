@@ -49,6 +49,7 @@
             ],
             "scripts": [],
             "styles": [
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.scss"
             ],
             "tsConfig": "tsconfig.app.json"
@@ -86,6 +87,7 @@
             ],
             "scripts": [],
             "styles": [
+              "@angular/material/prebuilt-themes/deeppurple-amber.css",
               "src/styles.scss"
             ],
             "tsConfig": "tsconfig.spec.json"
