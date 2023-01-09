@@ -1,0 +1,68 @@
+{
+  "ingredients": [
+    {
+      "ingredient": "gin (or cognac)",
+      "quantity": "2 oz"
+    },
+    {
+      "ingredient": "lemon juice",
+      "quantity": "1 oz"
+    },
+    {
+      "ingredient": "simple syrup",
+      "quantity": "1 oz"
+    },
+    {
+      "ingredient": "sparkling white wine",
+      "quantity": "4 oz"
+    },
+    {
+      "ingredient": "lemon zest",
+      "quantity": "1 twist"
+    }
+  ],
+  "instructions": [
+    {
+      "ingredients": [
+        "gin",
+        "lemon juice",
+        "simple syrup",
+        "ice cubes"
+      ],
+      "instruction": "Combine all in the cocktail shaker"
+    },
+    {
+      "ingredients": [],
+      "instruction": "Strain into highball glass"
+    },
+    {
+      "ingredients": [
+        "lemon zest"
+      ],
+      "instruction": "Add $1 to highball glass"
+    },
+    {
+      "ingredients": [],
+      "instruction": "Top with chilled wine"
+    }
+  ],
+  "material": [
+    {
+      "name": "Collins glass",
+      "type": "glass"
+    },
+    {
+      "name": "coktail shaker",
+      "type": "tool"
+    },
+    {
+      "name": "ice",
+      "type": "4"
+    }
+  ],
+  "name": "french 75",
+  "summary": [
+    "Classic drink"
+  ],
+  "type": "drink"
+}
